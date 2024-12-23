@@ -1,0 +1,2 @@
+TUGAS AIK,Stuck,High,2024-12-24,Add
+TUGAS PROGLAN,Done,Low,2024-12-23,Add
